@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://instagram.com/gpingon"><img src="https://img.shields.io/badge/-@gpingon-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://guspingon.github.io/portfolio/"><img src="https://img.shields.io/badge/-guspingon.github.io/portfolio-3423A6?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/gustavo-pgonçalves/"><img src="https://img.shields.io/badge/-Gustavo%20P%20Gonçalves-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://guspingon.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gustavo-pgonçalves/"><img src="https://img.shields.io/badge/-Gustavo%20Gonçalves-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <h2 align="left">🧑🏻‍💻 About me</h2>
