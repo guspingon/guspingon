@@ -2,6 +2,10 @@
 
 ###
 
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/gpingon)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/gustavo-pgonçalves/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge)](https://guspingon.github.io/portfolio/)  
+
 <h2 align="left">🧑🏻‍💻 About me</h2>
 
 ###
