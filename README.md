@@ -6,9 +6,11 @@
   <a href="https://instagram.com/gpingon">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/gustavo-pgonçalves/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="https://guspingon.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white&style=flat-square" alt="Portfolio">
   </a>
